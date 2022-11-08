@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xDalt
 - 👀 I’m interested in Web3 and decentralization
-- 🌱 I’m currently learning React node and solidiy.
+- 🌱 I’m currently learning React node and solidity.
 - 📫 How to reach me on discord Dalt_b#1894
 
 <!---
